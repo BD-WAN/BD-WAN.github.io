@@ -1,3 +1,9 @@
+---
+layout: default
+title: Overview
+nav_order: 1
+permalink: index.md
+---
 # Overview
 
 **Blockchain-Defined Wide Area Networks** (BD-WAN): **BD-WAN** integrates blockchain with Software-Defined WAN (SD-WAN) for a secure, scalable virtualization of WAN transport technologies. Among the unique features (not available with most SD-WAN architectures):
