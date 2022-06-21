@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transaction
+title: Transactions
 parent: Concepts
 grand_parent: Blockchain
 ---
