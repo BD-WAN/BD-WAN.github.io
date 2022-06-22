@@ -8,7 +8,7 @@ permalink: /
 
 **Blockchain-Defined Wide Area Networks** (BD-WAN): 
 **BD-WAN** integrates blockchain with Software-Defined WAN (SD-WAN) for a secure, scalable virtualization of WAN transport technologies. Among the unique features (not available with most SD-WAN architectures):
-{: .mt-4}
+ {: .mt-6 .fs-5 .fw-300}
 
 - First world serverless SD-WAN concept.
 
@@ -23,5 +23,6 @@ permalink: /
 - Carrier agnostic. 
 
 - No more expensive private cirucuits are needed.
-{: .md-6}
+ {: .mt-6 .fs-5 .fw-300 .md-6}
 BD-WAN is a step ahead in Software Defined networks approach. Our main goals are security and ease-of-use. We offer a reliable solution, with a fresh view on important sides of the technology. Blockchain brings in the uniqueness, by leveraging the complexity of SD-WAN on it's shoulders.
+ {: .mt-6 .fs-5 .fw-300}
