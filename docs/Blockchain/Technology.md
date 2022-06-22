@@ -15,7 +15,7 @@ Few words about SD-WAN, what's it, and how it helps us?
 {: .mt-3 .fs-5 .fw-300}
 > *Software-defined wide-area networking (SD-WAN) is an automated, programmatic approach to managing enterprise network connectivity and circuit costs. It extends software-defined networking (SDN) into an application that businesses can use to quickly create a smart hybrid WAN.*
 {: .mt-6 .fs-5 .fw-300}
-In few words, less work, more profit! Love it! But... Everything is not that "great" as we would want it. Throughput, encryption, overhead, sometimes expensive private circuits are still required to communicate with the SD-WAN controller, it can be thousands of H you might need. Cloud based Controller might be inappropriate in closed networks with no internet connection. Private network bring in some new problems, such as a server you have to maintaine and etc.
+In few words, less work, more profit! Love it! But... Everything is not that "great" as we would want it. Throughput, encryption, overhead, sometimes expensive private circuits are still required to communicate with the SD-WAN controller, it can be thousands of tunnels you might need. Cloud based Controller might be inappropriate in closed networks with no internet connection. Private network bring in some new problems, such as a server you have to maintaine and etc.
  {: .mt-6 .fs-5 .fw-300}
 
 
@@ -27,9 +27,12 @@ We are used to hear about blockchains and cryptocurrencies going along together.
 {: .mt-6 .fs-5 .fw-300}
 That's it! That's the whole point of our intention to use the blockchain. To spread control plane data across the nodes. If you want to communicate with any device, why would you use a third person(a controller)? Why wouldn't you communicate directly? That's where the Blockchain can help us! 
 {: .mt-2 .fs-5 .fw-300}
-We are not builind thousands of sockets to comunicate with each other, we do not rely on a single point of failure as a controller. No need in backing up the database and being scared of your server will get offline, be shuted down, be blocked, have some routing issue or anything else can happen!
-{: .mt-6 .fs-5 .fw-300}
 
+Something catchy is needed here
+{: .mt-2 .fs-5 .fw-300}
+
+Now, with an understanding of What and Why we can move to [Architecture](https://bd-wan.github.io//docs/Blockchain/Architecture/) topic to undestand how everything is tighen together!
+{: .mt-2 .fs-5 .fw-300}
 
 
 
