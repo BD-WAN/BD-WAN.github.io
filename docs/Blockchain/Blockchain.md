@@ -7,10 +7,10 @@ permalink: docs/Blockchain
 ---
 # Blockchain
 
-BD-WAN is based on the well-known Software-Defined WAN(SD-WAN) architecture butwith lots of fine tuning and blockchain engagement as will be detailed. Enterprise network operatorsare    demanding more flexible, open, and efficient WAN technologies, rather than installing specialized WAN technology that involve expensive fixed circuits and proprietary  hardware.
+BD-WAN is based on the well-known Software-Defined WAN (SD-WAN) architecture butwith lots of fine tuning and blockchain engagement as will be detailed. Enterprise network operators are    demanding more flexible, open, and efficient WAN technologies, rather than installing specialized WAN technology that involve expensive fixed circuits and proprietary  hardware.
 {: .mt-6 .fs-5 .fw-300}
 
-Blockchain is not only a heart of BD-WAN, but it's also the brain. By combining functionality and logic inside the Blockchain, we could easily eliminate unnecessary pain points of SD-WAN solutions that are existing today.
+Blockchain is not only a heart of BD-WAN, but it's also the brain. By combining functionality and logic inside the Blockchain, we can easily eliminate unnecessary pain points of SD-WAN solutions that are existing today.
 {: .fs-5 .fw-300 }
 
 - No SD-WAN Controller.
