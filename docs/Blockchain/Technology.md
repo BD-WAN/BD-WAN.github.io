@@ -26,10 +26,10 @@ We are used to hear about blockchains and cryptocurrencies going along together.
 > *A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.*
 {: .mt-6 .fs-5 .fw-300}
 That's it! That's the whole point of our intention to use the blockchain. To spread control plane data across the nodes. If you want to communicate with any device, why would you use a third person(a controller)? Why wouldn't you communicate directly? That's where the Blockchain can help us! 
+{: .mt-2 .fs-5 .fw-300}
 We are not builind thousands of sockets to comunicate with each other, we do not rely on a single point of failure as a controller. No need in backing up the database and being scared of your server will get offline, be shuted down, be blocked, have some routing issue or anything else can happen!
 {: .mt-6 .fs-5 .fw-300}
 
-##
 
 
 
