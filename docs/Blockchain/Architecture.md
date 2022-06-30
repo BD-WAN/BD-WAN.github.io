@@ -7,6 +7,7 @@ nav_order: 3
 # Architecture
 
 **BD-WAN** itself represents couple of **VNF**s working together:
+{: .mt-6 .fs-5 .fw-300}
 - **BD-WAN VNF**
 - [**BaaT**](https://bd-wan.github.io//docs/BaaT) **VNF**
 First one provides complete BD-WAN services, but without an advanced military grade encryption. We will keep [BaaT](https://bd-wan.github.io//docs/BaaT) topic for later.

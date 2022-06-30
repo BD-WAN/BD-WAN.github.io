@@ -9,14 +9,14 @@ nav_order: 2
 # Concepts
 
 ## SD-WAN
-Before we start diving deeper into architecture of **BD-WAN**, let's firstly take a look how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
+Before we start diving deeper into architecture of **BD-WAN**, let's firstly take a look on how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
 {: .mt-6 .fs-5 .fw-300}
 ![SD-WAN](https://user-images.githubusercontent.com/107935539/176615210-39840ed5-83db-4839-92f2-5231a69ae1dd.png)
-SD-WAN controller recieves new tasks from GUI and implement them by sending some **RPC commands** that are being realized by SD-WAN Routers. 
+SD-WAN controller recieves new tasks from GUI and implement them by sending some **RPC commands** to each **SD-WAN Router**.
 {: .mt-6 .fs-5 .fw-300}
 ## BD-WAN
 ![BD-WAN Topology](https://user-images.githubusercontent.com/107935539/175981387-8c1acce2-c17c-436c-b83e-d53d0a4251f0.png)
-BD-WAN recieves new tasks from GUI and implement them by sending some **RPC commands** to the **Blockchain** that are being spread across all **Blockchain** nodes and being realized by BD-WAN Routers.
+BD-WAN recieves new tasks from GUI and implement them by sending some **RPC commands** to the **Blockchain** where they are being spread across all **BD-WAN Routers**.
 {: .mt-6 .fs-5 .fw-300}
 
 By doing this, we are leveraging:

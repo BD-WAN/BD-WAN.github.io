@@ -15,7 +15,7 @@ Few words about SD-WAN, what's it, and how it helps us?
 {: .mt-3 .fs-5 .fw-300}
 > *Software-defined wide-area networking (SD-WAN) is an automated, programmatic approach to managing enterprise network connectivity and circuit costs. It extends software-defined networking (SDN) into an application that businesses can use to quickly create a smart hybrid WAN.*
 {: .mt-6 .fs-5 .fw-300}
-In few words, less work, more profit! Love it! But... Everything is not that "great" as we would want it. Throughput, encryption, overhead, sometimes expensive private circuits are still required to communicate with the SD-WAN controller, it can be thousands of tunnels you might need. Cloud based Controller might be inappropriate in closed networks with no internet connection. Private network bring in some new problems, such as a server you have to maintaine and etc.
+Less work, more profit! Love it! But... Everything is not that "great" as we would want it. Throughput, encryption, overhead, sometimes expensive private circuits are still required to communicate with the SD-WAN controller, it can be thousands of tunnels you might need. Cloud based Controller might be inappropriate in closed networks with no internet connection. Private network bring in some new problems, such as a server you have to maintaine and etc.
  {: .mt-6 .fs-5 .fw-300}
 
 
@@ -31,7 +31,7 @@ That's it! That's the whole point of our intention to use the blockchain. To spr
 Something catchy is needed here
 {: .mt-2 .fs-5 .fw-300}
 
-Now, with an understanding of What and Why we can move to [Architecture](https://bd-wan.github.io//docs/Blockchain/Architecture/) topic to undestand how everything is tighen together!
+Now, with an understanding of What and Why we can move to [Concepts](https://bd-wan.github.io//docs/Blockchain/Concepts/) topic to undestand how everything is tighen together!
 {: .mt-2 .fs-5 .fw-300}
 
 

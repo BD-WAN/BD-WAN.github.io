@@ -14,7 +14,7 @@ permalink: /
 
 - Smart and efficient adoption of Blockchain for telco industry.
 
-- Quantum resistant level of security.
+- Quantum resistant level of encryption.
 
 - The ability to dynamically establish and tear down logical and physical circuits so customers pay only for what they consume.
 
@@ -24,5 +24,5 @@ permalink: /
 
 - No more expensive private cirucuits are needed.
  {: .mt-6 .fs-5 .fw-300 .md-6}
-BD-WAN is a step ahead in Software Defined networks approach. Our main goals are security and ease-of-use. We offer a reliable solution, with a fresh view on important sides of the technology. Blockchain brings in the uniqueness, by leveraging the complexity of SD-WAN on it's shoulders.
+[BD-WAN](https://bd-wan.github.io//docs/BD-WAN) is a step ahead in Software Defined networks approach. Our main goals are security and ease-of-use. We offer a reliable solution, with a fresh view on important sides of the technology. Blockchain brings in the uniqueness, by leveraging the complexity of SD-WAN on it's shoulders.
  {: .mt-6 .fs-5 .fw-300}
