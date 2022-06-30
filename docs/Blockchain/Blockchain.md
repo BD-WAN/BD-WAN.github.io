@@ -3,7 +3,7 @@ layout: default
 title: BD-WAN
 nav_order: 2
 has_children: true
-permalink: docs/Blockchain
+permalink: docs/BD-WAN
 ---
 # Blockchain
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Architecture
-parent: Blockchain
+parent: BD-WAN
 nav_order: 3
 ---
 # Architecture

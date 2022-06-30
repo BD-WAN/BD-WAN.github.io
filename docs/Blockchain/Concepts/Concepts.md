@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Concepts
-parent: Blockchain
+parent: BD-WAN
 has_children: true
 permalink: docs/Blockchain/Concepts/
 nav_order: 2

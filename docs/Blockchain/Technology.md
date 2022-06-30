@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technology
-parent: Blockchain
+parent: BD-WAN
 nav_order: 1
 ---
 
