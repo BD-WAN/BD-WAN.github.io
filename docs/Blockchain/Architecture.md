@@ -7,7 +7,7 @@ parent: Blockchain
 
 Before we start diving deep into architecture of **BD-WAN**, let's firstly take a look how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
 {: .mt-6 .fs-5 .fw-300}
-![SD-WAN](https://user-images.githubusercontent.com/107935539/175979358-8dd5be4b-d5e8-45e4-a37e-5f6918aecfb8.png)
+![SD-WAN](https://user-images.githubusercontent.com/107935539/176615210-39840ed5-83db-4839-92f2-5231a69ae1dd.png)
 
 ![BD-WAN Topology](https://user-images.githubusercontent.com/107935539/175981387-8c1acce2-c17c-436c-b83e-d53d0a4251f0.png)
 
