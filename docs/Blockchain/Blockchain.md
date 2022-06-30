@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blockchain
+title: BD-WAN
 nav_order: 2
 has_children: true
 permalink: docs/Blockchain

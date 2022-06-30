@@ -2,15 +2,21 @@
 layout: default
 title: Architecture
 parent: Blockchain
+nav_order: 3
 ---
 # Architecture
 
-Before we start diving deep into architecture of **BD-WAN**, let's firstly take a look how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
+**BD-WAN** itself represents couple of **VNF**s working together:
+- **BD-WAN VNF**
+- [**BaaT**](https://bd-wan.github.io//docs/BaaT) **VNF**
+First one provides complete BD-WAN services, but without an advanced military grade encryption. We will keep [BaaT](https://bd-wan.github.io//docs/BaaT) topic for later.
 {: .mt-6 .fs-5 .fw-300}
-![SD-WAN](https://user-images.githubusercontent.com/107935539/176615210-39840ed5-83db-4839-92f2-5231a69ae1dd.png)
 
-![BD-WAN Topology](https://user-images.githubusercontent.com/107935539/175981387-8c1acce2-c17c-436c-b83e-d53d0a4251f0.png)
-
-![Architechture_1](https://user-images.githubusercontent.com/107935539/175971451-72a5fe8f-438e-4cf5-8071-c99ce779dd50.png)
-
-let's firstly take an example. Which is going to be a pretty simple **SD-WAN** task. To create tunnels and establish connection. Usually you would call an RPC directly in the controller and controller would send some data participants. Whereas your topology would look like this.
+## BD-WAN
+### Substrate
+> *The Blockchain Framework for a Multichain Future*
+{: .mt-6 .fs-5 .fw-300}
+We are using [Substrate](https://substrate.io/). Powerful, well designed, efficient and secure **blockchain framework** that helps us to realize our ideas and develop new aproach in **Software Designed** industry.
+{: .mt-6 .fs-5 .fw-300}
+![Architecture BD-WAN](https://user-images.githubusercontent.com/107935539/176629484-a8e47726-711f-429f-81b6-cffabdf211bf.png)
+We highly recommend to get familiar with **Substrate** to understand 
