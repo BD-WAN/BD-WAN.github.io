@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Concepts
-parent: BD-WAN
-has_children: true
-permalink: docs/Blockchain/Concepts/
-nav_order: 2
+title: Blocks
+parent: Concepts
+grand_parent: BD-WAN
+nav_order: 1
 ---
 # Concepts
 
