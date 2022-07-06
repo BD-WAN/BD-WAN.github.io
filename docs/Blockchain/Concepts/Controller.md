@@ -12,6 +12,8 @@ In fact, **BD-WAN** is the first world serverless **SD-WAN** concept. We do our 
 {: .mt-6 .fs-5 .fw-300}
 ![**BD-WAN** Topology](https://user-images.githubusercontent.com/107935539/175981387-8c1acce2-c17c-436c-b83e-d53d0a4251f0.png)
 
-Here you can see simplified dataflow. It happens when you implement new command in GUI, if the command is related globally.
+Here you can see simplified dataflow. It shows what happens when you implement new command in GUI, if the command is related globally.
 {: .mt-6 .fs-5 .fw-300}
 ![**BD-WAN** RPC FLOW (1)](https://user-images.githubusercontent.com/107935539/177583340-34f067be-ba92-42b9-9fd1-bc8f44118f0a.png)
+
+TBD
