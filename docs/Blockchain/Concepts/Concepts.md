@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blocks
+title: Concepts
 parent: BD-WAN
 nav_order: 1
 ---
