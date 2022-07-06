@@ -10,7 +10,7 @@ permalink: /
 **BD-WAN** integrates blockchain with Software-Defined WAN (SD-WAN) for a secure, scalable virtualization of WAN transport technologies. Among the unique features (not available with most SD-WAN architectures):
  {: .mt-6 .fs-5 .fw-300}
 
-- First world serverless SD-WAN concept.
+- Serverless SD-WAN concept.
 
 - Smart and efficient adoption of Blockchain for telco industry.
 
