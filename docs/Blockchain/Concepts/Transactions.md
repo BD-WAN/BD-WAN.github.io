@@ -10,11 +10,11 @@ nav_order: 3
 **Transaction is a block exchange process. Block itself contains data that we want to transfer to other nodes.**
 {: .mt-6 .fs-5 .fw-300}
 There are some different approaches to transaction a [Block](https://docs.substrate.io/main-docs/fundamentals/transaction-types/) in [Substrate](https://docs.substrate.io/) framework. There are:
-{: .mt-6 .fs-5 .fw-300}
+{: .mt-2 .fs-5 .fw-300}
 - **Signed transactions**
 - Unsigned transactions
 - Inherent transactions
-{: .mt-6 .fs-5 .fw-300}
+{: .mt-2 .fs-5 .fw-300}
 
 We are usually using the **Signed** transactions. Because we have to **validate** the transaction, to prove, that it is not a fraud and you are who you are. Key based security mechanisms are used to guarantee data sharing protectness. Each transaction, must be signed by end user, and the certificate has to be known by system. Only in this scenario transaction can be validated.
 {: .mt-6 .fs-5 .fw-300}
