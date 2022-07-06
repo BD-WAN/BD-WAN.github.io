@@ -2,6 +2,7 @@
 layout: default
 title: Concepts
 parent: BD-WAN
+has_children: true
 nav_order: 1
 ---
 # Concepts
