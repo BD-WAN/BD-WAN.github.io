@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Blocks
-parent: Concepts
-grand_parent: BD-WAN
+parent: BD-WAN
 nav_order: 1
 ---
 # Concepts

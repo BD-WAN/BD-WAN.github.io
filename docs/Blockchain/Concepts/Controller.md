@@ -3,7 +3,7 @@ layout: default
 title: Controller
 parent: Concepts
 grand_parent: BD-WAN
-nav_order: 1
+nav_order: 2
 ---
 
 # BD-WAN Controlerless approach
