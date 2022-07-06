@@ -37,5 +37,5 @@ Information sharing is our thing! It is fast and cheap, simultaneously secure an
 For example, if you want to share your LAN network IP address (*To build encrypted tunnels to pass data*) you can specify which nodes are allowed to recieve the data, you can choose a node, or a group of nodes. You can even specify **Blockchain Domain**(*we will talk about **Blockchain Domains** later here.) That is not the only acknolewdgment step we have. As you can see in the diagram below, we also do **Policing** at **Receiving Block** step. 
 {: .mt-6 .fs-5 .fw-200}
 ![Architechture_1](https://user-images.githubusercontent.com/107935539/175971451-72a5fe8f-438e-4cf5-8071-c99ce779dd50.png)
-Now we can jump into the next Concept we are glad to share with you. ![Transactions](https://bd-wan.github.io//docs/Blockchain/Concepts/Transactions/).
+Now we can jump into the next Concept we are glad to share with you. [Controller](https://bd-wan.github.io//docs/Blockchain/Concepts/Controller/).
 {: .mt-6 .fs-5 .fw-300}
