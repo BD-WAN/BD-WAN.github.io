@@ -25,6 +25,6 @@ You can see a diagram about transaction lifecycle taken from [Substrate](https:/
 {: .mt-6 .fs-5 .fw-300}
 ![Transaction lifecycle](https://docs.substrate.io/static/05e81b6aa161457fbf3aec95141f90a2/0fe02/transaction-lifecycle.avif)
 
-## Substrate Details
-Substrate is a very powerful and versatile tool we are modyfing for our needs. To understand it more we are suggesting to take a look on the [documentation](https://docs.substrate.io/main-docs/fundamentals/transaction-types/).
+
+Now we will talk about future vision and currenctly developing [CrossChain](https://bd-wan.github.io//docs/Blockchain/Concepts/Crosschain/) concept.
 {: .mt-6 .fs-5 .fw-300}
