@@ -10,10 +10,10 @@ nav_order: 2
 {: .mt-6 .fs-5 .fw-300}
 - **BD-WAN VNF**
 - [**BaaT**](https://bd-wan.github.io//docs/BaaT) 
-{: .mt-6 .fs-5 .fw-300}
+{: .mt-2 .fs-5 .fw-300}
 **VNF**
 First one provides complete BD-WAN services, but without an advanced military grade encryption and other benefits. We will keep [BaaT](https://bd-wan.github.io//docs/BaaT) topic for later.
-{: .mt-6 .fs-5 .fw-300}
+{: .mt-2 .fs-5 .fw-300}
 
 ## BD-WAN
 ### Substrate

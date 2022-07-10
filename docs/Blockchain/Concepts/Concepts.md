@@ -39,3 +39,6 @@ For example, if you want to share your LAN network IP address (*To build encrypt
 ![Architechture_1](https://user-images.githubusercontent.com/107935539/175971451-72a5fe8f-438e-4cf5-8071-c99ce779dd50.png)
 Now we can jump into the next Concept we are glad to share with you. [Controller](https://bd-wan.github.io//docs/Blockchain/Concepts/Controller/).
 {: .mt-6 .fs-5 .fw-300}
+
+[Controller](https://bd-wan.github.io//docs/Blockchain/Concepts/Controller/)
+{: .mt-6 .fs-6 .fw-300}

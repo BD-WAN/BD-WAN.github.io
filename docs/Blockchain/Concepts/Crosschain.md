@@ -15,7 +15,7 @@ For example **ISP 1** and **ISP 2** are using different local **BD-WAN** domains
 ![CrossChain](https://user-images.githubusercontent.com/107935539/177154695-8ebbec89-17f7-4563-b671-c644cd8ddf6e.png)
 ## Polkadot
 [Substrate](https://docs.substrate.io/) works with [Polkadot](https://polkadot.network/).
-
+{: .mt-6 .fs-5 .fw-200}
 > *Polkadot unites and secures a growing ecosystem of specialized blockchains called parachains. Apps and services on Polkadot can securely communicate across chains, forming the basis for a truly interoperable decentralized web.*
 {: .mt-2 .fs-5 .fw-200}
 
