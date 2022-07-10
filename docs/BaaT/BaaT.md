@@ -20,6 +20,7 @@ BaaT is a flexible Overlay solution. We are using **VXLAN** protocol. But we als
 BaaT is a very secured solution. It is protected by Quantum Resistant [encryption](https://bd-wan.github.io//docs/BaaT/Encryption/) algorythms. Which makes our solution *Military Grade*.
 {: .mt-6 .fs-5 .fw-300} 
 ![BaaT Benefits Table (1)](https://user-images.githubusercontent.com/107935539/178148418-62146186-2e50-4b91-8b3b-daf61c03b0b3.png)
-
+[Click to expand](https://user-images.githubusercontent.com/107935539/178148418-62146186-2e50-4b91-8b3b-daf61c03b0b3.png)
+{: .fs-3 .fw-300} 
 
  Now we can switch to the next topic - [Encryption](https://bd-wan.github.io//docs/BaaT/Encryption/).
