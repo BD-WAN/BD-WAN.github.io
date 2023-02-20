@@ -10,12 +10,12 @@ parent: BaaT
 First thing to understand is that **BD-WAN** incrorporates **BaaT**. We will get more details about this in a moment and before we start diving deeper into architecture of **BaaT** and **BD-WAN**, let's firstly take a look on how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
 {: .mt-6 .fs-5 .fw-300}
 <!-- ![SD-WAN](https://user-images.githubusercontent.com/107935539/176615210-39840ed5-83db-4839-92f2-5231a69ae1dd.png) -->
-![sd-wan-animation](https://user-images.githubusercontent.com/107935539/220169289-732ab09a-4721-4168-b0cd-fc5e3ee31cb1.gif)
-SD-WAN controller recieves new tasks from GUI and implements them by sending some **RPC commands** to each **SD-WAN Router**.
+![sd-wan-animation](https://user-images.githubusercontent.com/107935539/220172186-7895074f-7777-486f-8e3c-14239eb7c025.gif)
+SD-WAN controller recieves new tasks from user and implements them by sending some **RPC commands** to each **SD-WAN Router**.
 {: .mt-6 .fs-5 .fw-300}
 ## BD-WAN
-![BD-WAN-animation](https://user-images.githubusercontent.com/107935539/220171519-9138a744-4a49-476b-9713-10d0f270d77f.gif)
-**BaaT Nodes** recieve new updates from GUI(user) and implements them by sending some **Control Plane** data to the **Blockchain**, our controlerless backbone, where they are being spread across all **BaaT Nodes**.
+![BD-WAN-animation](https://user-images.githubusercontent.com/107935539/220172683-72cce7ed-94ec-40b9-9cfb-6425a8d99ac2.gif)
+**BaaT Nodes** recieve new updates from user and implements them by sending some **Control Plane** data to the **Blockchain**, our controlerless backbone, where they are being spread across all **BaaT Nodes**.
 {: .mt-6 .fs-5 .fw-300}
 
 Described above approach provides us:
