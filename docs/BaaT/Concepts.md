@@ -14,7 +14,7 @@ First thing to understand is that **BD-WAN** incrorporates **BaaT**. We will get
 SD-WAN controller recieves new tasks from GUI and implements them by sending some **RPC commands** to each **SD-WAN Router**.
 {: .mt-6 .fs-5 .fw-300}
 ## BD-WAN
-![bd-wan-controlerless-fixed](https://user-images.githubusercontent.com/107935539/220095098-88c081b7-859b-4891-b9ce-4c1760637349.png)
+![BD-WAN-animation](https://user-images.githubusercontent.com/107935539/220171519-9138a744-4a49-476b-9713-10d0f270d77f.gif)
 **BaaT Nodes** recieve new updates from GUI(user) and implements them by sending some **Control Plane** data to the **Blockchain**, our controlerless backbone, where they are being spread across all **BaaT Nodes**.
 {: .mt-6 .fs-5 .fw-300}
 
