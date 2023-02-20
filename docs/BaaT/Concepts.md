@@ -7,7 +7,7 @@ parent: BaaT
 # Concepts
 
 ## BaaT
-Before we start diving deeper into architecture of **BaaT** and **BD-WAN**, let's firstly take a look on how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
+First thing to understand is that **BD-WAN** incrorporates **BaaT**. We will get more details about this in a moment and before we start diving deeper into architecture of **BaaT** and **BD-WAN**, let's firstly take a look on how actually **SD-WAN** topology looks like. Pretty simple and straightforward.
 {: .mt-6 .fs-5 .fw-300}
 ![SD-WAN](https://user-images.githubusercontent.com/107935539/176615210-39840ed5-83db-4839-92f2-5231a69ae1dd.png)
 SD-WAN controller recieves new tasks from GUI and implements them by sending some **RPC commands** to each **SD-WAN Router**.
